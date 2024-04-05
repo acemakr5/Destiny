@@ -14,16 +14,3 @@
 2. If this does not work then you can prepend `$env:PORT=8080;`, replacing 8080 with another port. For example, `$env:PORT=6969; pnpm start`
 3. Go to the ports tab, Click Forward A Port, And type the port number.
 4. Right-click Visibility and set Port Visibility to Public.
-
-> [!TIP]
-> If you're having trouble, don't hesitate reach out to us on [Discord](https://discord.gg/interstellar) for personalized support.
-
-## Report Issues
-
-If you encounter problems, open an issue on GitHub, and we'll address it promptly.
-
-# Credits
-
-A huge thank you to all of the people who have contributed to Interstellar.
-
-[![Contributors](https://contrib.rocks/image?repo=InterstellarNetwork/Interstellar)](https://github.com/InterstellarNetwork/Interstellar/graphs/contributors)
