@@ -3,6 +3,8 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     interstellar: 'password',
+    frappy: 'cat',
+    will: 'destiny',
   },
   routes: true, // Change this to false if you just want to host a bare server.
   local: true, // Change this to false to disable local assets.
