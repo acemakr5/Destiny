@@ -4,11 +4,5 @@
     "image": "/assets/media/icons/custom.webp",
     "categories": ["all"],
     "custom": "true"
-  },
-  {
-    "name": "! Request A Game",
-    "link": "https://forms.gle/94fJ9yAXQCgaXTrz6",
-    "image": "/assets/media/icons/request.webp",
-    "categories": ["all"]
-  },
+  }
 ]
