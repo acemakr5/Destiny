@@ -11,8 +11,8 @@
     "format": "npx prettier . --write",
     "eslint": "npx eslint --fix ."
   },
-  "author": "InterstellarNetwork",
-  "license": "GPL-3.0-or-later",
+  "author": "Frappys Editin Session",
+  "license": "None, I stole this",
   "dependencies": {
     "@tomphttp/bare-server-node": "2.0.3",
     "cors": "^2.8.5",
