@@ -1,8 +1,8 @@
 {
-  "name": "edu",
-  "description": "?",
-  "repository": "https://github.com/interstellarnetwork/interstellar",
-  "logo": "https://avatars.githubusercontent.com/u/103917385",
-  "keywords": ["school", "math"],
-  "image": "heroku/nodejs"
+  "name": "edu - electronic dance uvula",
+  "description": "Hi, this is frappy. This is in a box called description",
+  "repository": "https://github.com/Functionalcoy2/Destiny",
+  "logo": "https://avatars.githubusercontent.com/u/103917384",
+  "keywords": ["school", "destiny"],
+  "image": "frappys/cat"
 }
