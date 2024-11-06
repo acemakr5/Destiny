@@ -11,8 +11,8 @@ const app = express(server)
 const bareServer = createBareServer('/o/')
 const PORT = process.env.PORT || 8080
 if (config.challenge) {
-  console.log('Password protection is enabled. Usernames are: ' + Object.keys(config.users))
-  console.log('Passwords are: ' + Object.values(config.users))
+  // console.log('Password protection is enabled. Usernames are: ' + Object.keys(config.users))
+  // console.log('Passwords are: ' + Object.values(config.users))
 
   app.use(
     basicAuth({
@@ -96,7 +96,7 @@ server.on('upgrade', (req, socket, head) => {
 })
 
 server.on('listening', () => {
-  console.log(`Running at http://localhost:${PORT}`)
+  console.log(`http://localhost:${PORT}`)
 })
 
 server.listen({
