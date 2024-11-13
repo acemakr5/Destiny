@@ -4,5 +4,11 @@
     "image": "/assets/media/icons/custom.webp",
     "categories": ["all"],
     "custom": "true"
+  },
+  {
+    "name": "Geforce NOW",
+    "link": "https://play.geforcenow.com",
+    "image": "/assets/media/icons/geforce-now.webp",
+    "categories": ["all"]
   }
 ]
